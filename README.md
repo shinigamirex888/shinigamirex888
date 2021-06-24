@@ -1,4 +1,4 @@
-[![MasterHead](Pic4.jpg)](https://github.com/shinigamirex888)
+[![MasterHead](pic4.jpg)](https://github.com/shinigamirex888)
 <h1 align="center">I'm Snehil Mishra</h1>
 <h3 align="center">Making myself better😎</h3>
 
