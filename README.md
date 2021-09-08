@@ -33,16 +33,14 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinigamirex888&show_icons=true&locale=en&layout=compact" alt="snehilmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinigamirex888&show_icons=true&locale=en" alt="snehilmishra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinigamirex888&" alt="snehilmishra" /></p> -->
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=shinigamirex888&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shinigamirex888&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=shinigamirex888&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-<!--   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
+
 </p>
+<a href="https://github.com/shinigamirex888">
+ <img src="https://activity-graph.herokuapp.com/graph?username=shinigamirex888&theme=gruvbox&area=true&hide_border=true" width="100%">
+</a>
